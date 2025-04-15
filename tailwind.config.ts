@@ -52,6 +52,13 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				hackathon: {
+					purple: '#8B5CF6',
+					blue: '#3B82F6',
+					lightPurple: '#A78BFA',
+					lightBlue: '#93C5FD',
+					dark: '#1A1F2C',
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
